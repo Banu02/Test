@@ -1,1 +1,11 @@
 # Test
+git --version
+git config --global user.name ""
+git config --global user.email ""
+git init project name
+git clone url
+git status
+git add .
+git commit -m "message"
+git remote add origin [url]
+git push origin master
